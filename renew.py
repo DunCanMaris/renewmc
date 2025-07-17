@@ -10,7 +10,7 @@ login_data = {
         "repeat": ""
     }
 }
-sub_url = "https://www.mcserverhost.com/api/servers/559a9d2a/subscription" #
+sub_url = "https://www.mcserverhost.com/api/servers/79c6e4e1/subscription" #
 def run_automation():
     session = requests.Session()
     while True:
